@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/MonoPosixHelper.cpp"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/home/stuart/Unity/Hub/Editor/2021.1.1f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
